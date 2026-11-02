@@ -1,0 +1,131 @@
+{
+  "lastUpdated": "2026-11-02T20:40:41.745Z",
+  "events": [
+    {
+      "title": "Election Day",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-11-03T06:00:00.000Z",
+      "displayDate": "Tue, Nov 3",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Ponemah 2nd grade Visit ",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-11-04T15:30:00.000Z",
+      "displayDate": "Wed, Nov 4",
+      "displayTime": "9:30 AM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Men's Support Group",
+      "description": "",
+      "location": "M Atrium",
+      "start": "2026-11-06T00:00:00.000Z",
+      "displayDate": "Thu, Nov 5",
+      "displayTime": "6:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Last Day to Officially Withdraw from Classes",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-11-09T06:00:00.000Z",
+      "displayDate": "Mon, Nov 9",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Registration Opens for Spring",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-11-10T06:00:00.000Z",
+      "displayDate": "Tue, Nov 10",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Veteran's Day (Closed)",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-11-11T06:00:00.000Z",
+      "displayDate": "Wed, Nov 11",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Library: Trivia",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-11-12T18:00:00.000Z",
+      "displayDate": "Thu, Nov 12",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "International Stress Awareness Day",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-11-16T18:00:00.000Z",
+      "displayDate": "Mon, Nov 16",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Dr. Ellis Presentation (BSU Prof)",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-11-18T18:00:00.000Z",
+      "displayDate": "Wed, Nov 18",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Thanksgiving Break (Closed)",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-11-26T06:00:00.000Z",
+      "displayDate": "Thu, Nov 26",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Myths and Legends Class World Storytelling Event",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-11-30T18:00:00.000Z",
+      "displayDate": "Mon, Nov 30",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Finals Wellness Massages",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-12-01T15:00:00.000Z",
+      "displayDate": "Tue, Dec 1",
+      "displayTime": "9:00 AM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Finals Wellness Massages",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-12-02T15:00:00.000Z",
+      "displayDate": "Wed, Dec 2",
+      "displayTime": "9:00 AM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Library: Finals Art Stress Relief Event and White Elephant Book Exchange",
+      "description": "",
+      "location": "RL Library",
+      "start": "2026-12-02T18:00:00.000Z",
+      "displayDate": "Wed, Dec 2",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    }
+  ]
+}
