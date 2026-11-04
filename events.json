@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T10:11:00.650Z",
+  "lastUpdated": "2026-11-04T10:11:03.308Z",
   "events": [
-    {
-      "title": "Election Day",
-      "description": "",
-      "location": "Campus",
-      "start": "2026-11-03T06:00:00.000Z",
-      "displayDate": "Tue, Nov 3",
-      "displayTime": "12:00 AM",
-      "calendar": "Academic Calendar"
-    },
     {
       "title": "Ponemah 2nd grade Visit ",
       "description": "",
@@ -125,6 +116,15 @@
       "start": "2026-12-02T18:00:00.000Z",
       "displayDate": "Wed, Dec 2",
       "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Finals Wellness Massages",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-12-03T15:00:00.000Z",
+      "displayDate": "Thu, Dec 3",
+      "displayTime": "9:00 AM",
       "calendar": "Events Calendar"
     }
   ]
