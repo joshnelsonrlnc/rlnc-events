@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T10:11:03.308Z",
+  "lastUpdated": "2026-11-05T10:11:00.430Z",
   "events": [
-    {
-      "title": "Ponemah 2nd grade Visit ",
-      "description": "",
-      "location": "RL Student Union",
-      "start": "2026-11-04T15:30:00.000Z",
-      "displayDate": "Wed, Nov 4",
-      "displayTime": "9:30 AM",
-      "calendar": "Events Calendar"
-    },
     {
       "title": "Men's Support Group",
       "description": "",
@@ -126,6 +117,15 @@
       "displayDate": "Thu, Dec 3",
       "displayTime": "9:00 AM",
       "calendar": "Events Calendar"
+    },
+    {
+      "title": "ePortfolio Presentations (placeholder)",
+      "description": "Placeholder for ePortfolio presentations. See Stephen Watkins-Melgarejo with questions.",
+      "location": "TBD, Virtual",
+      "start": "2026-12-04T18:00:00.000Z",
+      "displayDate": "Fri, Dec 4",
+      "displayTime": "12:00 PM",
+      "calendar": "Academic Calendar"
     }
   ]
 }
