@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T10:11:01.222Z",
+  "lastUpdated": "2026-11-10T10:11:01.654Z",
   "events": [
-    {
-      "title": "Last Day to Officially Withdraw from Classes",
-      "description": "",
-      "location": "Campus",
-      "start": "2026-11-09T06:00:00.000Z",
-      "displayDate": "Mon, Nov 9",
-      "displayTime": "12:00 AM",
-      "calendar": "Academic Calendar"
-    },
     {
       "title": "Registration Opens for Spring",
       "description": "",
@@ -144,6 +135,15 @@
       "displayDate": "Tue, Dec 8",
       "displayTime": "12:00 AM",
       "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Finals Therapy Dogs Visit",
+      "description": "",
+      "location": "RL Student Union",
+      "start": "2026-12-09T18:00:00.000Z",
+      "displayDate": "Wed, Dec 9",
+      "displayTime": "12:00 PM",
+      "calendar": "Events Calendar"
     }
   ]
 }
