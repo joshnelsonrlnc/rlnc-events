@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T10:11:02.626Z",
+  "lastUpdated": "2026-11-20T10:11:01.476Z",
   "events": [
-    {
-      "title": "Manoomin and Internships (Michelle Anderson, Red Laker and UMN grad student)",
-      "description": "Join us for a Lunch and Learn presentation featuring Michelle Anderson, a UMN graduate student working with the Red Lake Department of Natural Resources (DNR) on Manoomin (wild rice).\n\nMichelle and her adviser will present on their ongoing Manoomin research and share details about upcoming summer internship opportunities available for RLNC students starting next year.",
-      "location": "RL Student Union",
-      "start": "2026-11-19T18:00:00.000Z",
-      "displayDate": "Thu, Nov 19",
-      "displayTime": "12:00 PM",
-      "calendar": "Events Calendar"
-    },
     {
       "title": "Thanksgiving Break (Closed)",
       "description": "",
@@ -29,21 +20,21 @@
       "calendar": "Events Calendar"
     },
     {
-      "title": "(Placeholder) Memories of Red Lake",
-      "description": "Placeholder. Location: RL-TBD. Time: TBD. \nDirect questions to listed hosts.",
-      "location": "TBD",
-      "start": "2026-12-01T14:00:00.000Z",
-      "displayDate": "Tue, Dec 1",
-      "displayTime": "8:00 AM",
-      "calendar": "Events Calendar"
-    },
-    {
       "title": "Finals Wellness Massages",
       "description": "",
       "location": "RL Student Union",
       "start": "2026-12-01T15:00:00.000Z",
       "displayDate": "Tue, Dec 1",
       "displayTime": "9:00 AM",
+      "calendar": "Events Calendar"
+    },
+    {
+      "title": "Archives/Library Event",
+      "description": "Lunch Noon-1pm (Student Union)\nCharles Brill Photo Exhibit (RLNC Library\nPhoto identification (Student Union)\nFamily Portraits (Check in lobby)",
+      "location": "TBD",
+      "start": "2026-12-01T18:00:00.000Z",
+      "displayDate": "Tue, Dec 1",
+      "displayTime": "12:00 PM",
       "calendar": "Events Calendar"
     },
     {
