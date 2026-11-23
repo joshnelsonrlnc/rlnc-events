@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T10:11:00.321Z",
+  "lastUpdated": "2026-11-23T10:11:00.625Z",
   "events": [
     {
       "title": "Thanksgiving Break (Closed)",
@@ -97,6 +97,15 @@
       "location": "Campus",
       "start": "2026-12-16T06:00:00.000Z",
       "displayDate": "Wed, Dec 16",
+      "displayTime": "12:00 AM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "Holiday Break (Closed)",
+      "description": "",
+      "location": "Campus",
+      "start": "2026-12-23T06:00:00.000Z",
+      "displayDate": "Wed, Dec 23",
       "displayTime": "12:00 AM",
       "calendar": "Academic Calendar"
     }
