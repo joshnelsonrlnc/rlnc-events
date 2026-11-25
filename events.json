@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T10:11:01.202Z",
+  "lastUpdated": "2026-11-25T10:11:01.912Z",
   "events": [
     {
       "title": "Thanksgiving Break (Closed)",
@@ -65,9 +65,45 @@
       "calendar": "Events Calendar"
     },
     {
-      "title": "ePortfolio Presentations (placeholder)",
-      "description": "Placeholder for ePortfolio presentations. See Stephen Watkins-Melgarejo with questions.",
-      "location": "TBD, Virtual",
+      "title": "ePortfolio Presentations, Room One",
+      "description": "",
+      "location": "Red Lake: Classroom 112, MPLS: Boardroom, Red Lake Nation College-1-East-Classroom 112 (8)",
+      "start": "2026-12-04T18:00:00.000Z",
+      "displayDate": "Fri, Dec 4",
+      "displayTime": "12:00 PM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "ePortfolio Presentations, Room Two",
+      "description": "",
+      "location": "Red Lake: Classrom 207, MPLS: Miriam's office, Red Lake Nation College-2-East-Classroom 207 (8)",
+      "start": "2026-12-04T18:00:00.000Z",
+      "displayDate": "Fri, Dec 4",
+      "displayTime": "12:00 PM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "ePortfolio Presentations, Room Three",
+      "description": "",
+      "location": "Red Lake: Classroom 209, MPLS: Classroom 220, Minneapolis Site-F2-MPLS Classroom 220 (12), Red Lake Nation College-2-East-Classroom 209 (8)",
+      "start": "2026-12-04T18:00:00.000Z",
+      "displayDate": "Fri, Dec 4",
+      "displayTime": "12:00 PM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "ePortfolio Presentations, Room Four",
+      "description": "",
+      "location": "Red Lake: Classroom 210, MPLS: Classroom 214, Red Lake Nation College-2-East-Classroom 210 (9), Minneapolis Site-F2-MPLS Classroom 214 (10)",
+      "start": "2026-12-04T18:00:00.000Z",
+      "displayDate": "Fri, Dec 4",
+      "displayTime": "12:00 PM",
+      "calendar": "Academic Calendar"
+    },
+    {
+      "title": "ePortfolio Presentations, Room Five",
+      "description": "",
+      "location": "Red Lake: Classroom 211, MPLS: Chief's Room, Minneapolis Site-F2-MPLS Chief's Room (25), Red Lake Nation College-2-East-Classroom 211 (8)",
       "start": "2026-12-04T18:00:00.000Z",
       "displayDate": "Fri, Dec 4",
       "displayTime": "12:00 PM",
